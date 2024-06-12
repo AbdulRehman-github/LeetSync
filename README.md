@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AbdulRehman-github/LeetSync/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/AbdulRehman-github/LeetSync/tree/master/0283-move-zeroes) |
 # Hash Table
 |  |
 | ------- |
@@ -35,3 +36,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
+# Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/AbdulRehman-github/LeetSync/tree/master/0283-move-zeroes) |
