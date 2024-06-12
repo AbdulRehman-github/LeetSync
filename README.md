@@ -23,3 +23,15 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/0389-find-the-difference) |
+# Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
