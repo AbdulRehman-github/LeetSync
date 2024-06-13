@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/0389-find-the-difference) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 # Design
 |  |
 | ------- |
