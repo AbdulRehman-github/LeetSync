@@ -30,6 +30,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AbdulRehman-github/LeetSync/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/0389-find-the-difference) |
 # Stack
 |  |
@@ -60,3 +61,11 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1603-running-sum-of-1d-array) |
+# Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AbdulRehman-github/LeetSync/tree/master/0231-power-of-two) |
+# Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AbdulRehman-github/LeetSync/tree/master/0231-power-of-two) |
