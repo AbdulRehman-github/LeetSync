@@ -8,6 +8,7 @@
 | [0283-move-zeroes](https://github.com/AbdulRehman-github/LeetSync/tree/master/0283-move-zeroes) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1603-running-sum-of-1d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2210-find-target-indices-after-sorting-array) |
 # Hash Table
 |  |
@@ -55,3 +56,7 @@
 |  |
 | ------- |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2210-find-target-indices-after-sorting-array) |
+# Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1603-running-sum-of-1d-array) |
