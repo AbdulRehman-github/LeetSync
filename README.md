@@ -40,15 +40,18 @@
 # Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdulRehman-github/LeetSync/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 # Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdulRehman-github/LeetSync/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
 # Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdulRehman-github/LeetSync/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AbdulRehman-github/LeetSync/tree/master/0232-implement-queue-using-stacks) |
 # Two Pointers
 |  |
