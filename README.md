@@ -85,3 +85,14 @@
 | [0231-power-of-two](https://github.com/AbdulRehman-github/LeetSync/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AbdulRehman-github/LeetSync/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AbdulRehman-github/LeetSync/tree/master/0342-power-of-four) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdulRehman-github/LeetSync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdulRehman-github/LeetSync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+<!---LeetCode Topics End-->
