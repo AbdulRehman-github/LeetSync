@@ -115,4 +115,12 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdulRehman-github/LeetSync/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdulRehman-github/LeetSync/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
