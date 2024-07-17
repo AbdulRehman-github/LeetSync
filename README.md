@@ -122,5 +122,10 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
