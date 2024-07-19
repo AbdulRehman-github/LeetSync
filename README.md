@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/AbdulRehman-github/LeetSync/tree/master/0441-arranging-coins) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdulRehman-github/LeetSync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/AbdulRehman-github/LeetSync/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
