@@ -126,6 +126,7 @@
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,4 +159,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulRehman-github/LeetSync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
