@@ -140,6 +140,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
