@@ -102,6 +102,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdulRehman-github/LeetSync/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdulRehman-github/LeetSync/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -221,6 +223,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
 | [3226-minimum-number-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
