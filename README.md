@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/AbdulRehman-github/LeetSync/tree/master/0441-arranging-coins) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdulRehman-github/LeetSync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
