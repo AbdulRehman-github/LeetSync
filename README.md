@@ -139,6 +139,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
 | [3226-minimum-number-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AbdulRehman-github/LeetSync/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -162,6 +163,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/AbdulRehman-github/LeetSync/tree/master/1205-defanging-an-ip-address) |
+| [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
