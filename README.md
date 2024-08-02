@@ -126,6 +126,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdulRehman-github/LeetSync/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AbdulRehman-github/LeetSync/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
@@ -167,6 +169,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -234,6 +237,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0179-largest-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Graph
 |  |
