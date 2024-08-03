@@ -151,6 +151,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -164,6 +165,7 @@
 | [0205-isomorphic-strings](https://github.com/AbdulRehman-github/LeetSync/tree/master/0205-isomorphic-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
+| [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [1205-defanging-an-ip-address](https://github.com/AbdulRehman-github/LeetSync/tree/master/1205-defanging-an-ip-address) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
@@ -173,6 +175,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
