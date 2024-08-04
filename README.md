@@ -136,6 +136,7 @@
 | [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
@@ -177,6 +178,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
