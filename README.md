@@ -142,6 +142,7 @@
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AbdulRehman-github/LeetSync/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -182,6 +183,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AbdulRehman-github/LeetSync/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
@@ -194,6 +196,7 @@
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AbdulRehman-github/LeetSync/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/AbdulRehman-github/LeetSync/tree/master/0441-arranging-coins) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AbdulRehman-github/LeetSync/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
