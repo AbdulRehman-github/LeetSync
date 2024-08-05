@@ -141,6 +141,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/3226-minimum-number-game) |
@@ -158,6 +159,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
 | [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [1205-defanging-an-ip-address](https://github.com/AbdulRehman-github/LeetSync/tree/master/1205-defanging-an-ip-address) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
@@ -191,6 +194,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
