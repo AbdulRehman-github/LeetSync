@@ -134,6 +134,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
+| [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/1306-minimum-absolute-difference) |
@@ -171,6 +172,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
 | [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
+| [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/AbdulRehman-github/LeetSync/tree/master/1205-defanging-an-ip-address) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AbdulRehman-github/LeetSync/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AbdulRehman-github/LeetSync/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AbdulRehman-github/LeetSync/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0179-largest-number) |
+| [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Graph
 |  |
