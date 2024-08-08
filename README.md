@@ -135,6 +135,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbdulRehman-github/LeetSync/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AbdulRehman-github/LeetSync/tree/master/0682-baseball-game) |
 | [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/AbdulRehman-github/LeetSync/tree/master/0981-delete-columns-to-make-sorted) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1256-rank-transform-of-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/1306-minimum-absolute-difference) |
@@ -173,6 +174,7 @@
 | [0742-to-lower-case](https://github.com/AbdulRehman-github/LeetSync/tree/master/0742-to-lower-case) |
 | [0807-custom-sort-string](https://github.com/AbdulRehman-github/LeetSync/tree/master/0807-custom-sort-string) |
 | [0979-di-string-match](https://github.com/AbdulRehman-github/LeetSync/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/AbdulRehman-github/LeetSync/tree/master/0981-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/AbdulRehman-github/LeetSync/tree/master/1205-defanging-an-ip-address) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/AbdulRehman-github/LeetSync/tree/master/2727-number-of-senior-citizens) |
