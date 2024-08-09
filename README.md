@@ -98,6 +98,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/0171-excel-sheet-column-number) |
 | [0441-arranging-coins](https://github.com/AbdulRehman-github/LeetSync/tree/master/0441-arranging-coins) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AbdulRehman-github/LeetSync/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [1306-minimum-absolute-difference](https://github.com/AbdulRehman-github/LeetSync/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbdulRehman-github/LeetSync/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/AbdulRehman-github/LeetSync/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AbdulRehman-github/LeetSync/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -220,6 +222,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/AbdulRehman-github/LeetSync/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/AbdulRehman-github/LeetSync/tree/master/2102-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
